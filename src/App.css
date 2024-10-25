@@ -9,6 +9,10 @@
     flex-direction: column;
     align-items: center;
 }
+.nav {
+    text-decoration: none;
+    color: blue;
+}
 
 .box-conversion {
     display: flex;
